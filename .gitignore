@@ -1,0 +1,14 @@
+# IntelliJ files
+.idea/
+*.iml
+
+# Directories
+bin/
+pkg/
+vendor/
+src/*/vendor/
+src/*/venv/
+.scannerwork/
+src/.vscode
+src/*/.vscode
+src/*/.idea
